@@ -20,7 +20,7 @@ ms.lasthandoff: 01/25/2018
 
 Beginnend mit Visual Studio 2017, wurden die UML-Designer von Visual Studio entfernt. Weitere Informationen finden Sie in diesem [Blogbeitrag](https://blogs.msdn.microsoft.com/visualstudioalm/2016/10/14/uml-designers-have-been-removed-layer-designer-now-supports-live-architectural-analysis/).
 
-Wenn Sie weiterhin UML verwenden müssen, können Sie Visual Studio 2015 Enterprise Edition verwendet wird, die Seite-an-Seite-kompatibel mit höheren Versionen von Visual Studio ist.
+Wenn Sie weiterhin UML verwenden müssen, können Sie Visual Studio 2015 Enterprise Edition verwenden, das Seite-an-Seite-kompatibel mit höheren Versionen von Visual Studio ist.
 
 Informationen zum Verwenden von UML in Visual Studio 2015 finden Sie unter:
 
